@@ -2,7 +2,7 @@
 ![image](https://user-images.githubusercontent.com/32479901/131238764-37d59421-2a52-488b-9214-0512840c21b1.png)
 
 
-Estimating the vehicle pose using Sparse Optical Flow vectors with Median Absolute  Deviation Filter
+Estimating the vehicle pose using Sparse Optical Flow vectors with Median Absolute  Deviation Filter as the sampling consensus
 
 ![image](https://user-images.githubusercontent.com/32479901/129861470-39fcf532-6b53-4da2-975c-fb9432149cbd.png)
 
